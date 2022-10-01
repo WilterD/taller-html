@@ -1,1 +1,7 @@
-<h1><a style="background-color:#47B5FF;color:#fff;padding:10px;border-radius: 15px;text-decoration: none;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" href="TallerdeHtmlyCss.pdf">Descargar pdf</a></h1>
+<strong>Crear genial Páginas Web y subir a este repositorio</strong>
+
+<strong> Las Mejores Webs serán presentadas </strong>
+
+<strong> Entregar antes del 25 de octubre </strong>
+
+<strong>  ¡Éxitos! 😁</strong>
